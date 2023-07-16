@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!-- klug-md.de Template Stand 20230716 -->
+<html lang="de">
+<head>
+ <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
+ <!-- TemplateBeginEditable name="ehead" -->
+  <title>KLUG MD Assessment-Center</title>
+  <meta name="description" content="Ma&szlig;geschneiderte Assessments mit hoher Vorhersageleistung durch Arbeitsproben und Simulation der Positionsanforderungen. Ihre Experten f&uuml;r Management-Diagnostik" />
+  <meta name="keywords" content="Asessment,Assessments,Assessment-Center,Assesment,Asessment,Center,Potenzialanalyse,Management-Audit,Appraisal,Orientierungscenter,Audit,Eignung, Test, Andreas Klug" />
+ <!-- TemplateEndEditable -->   <!-- Ende des editierbaren Bereiches ehead -->
+ <meta name="author" content="Andreas Klug" />
+ <meta name="copyright" content="(C) 2023 Dr. Andreas Klug" />
+ <meta name="generator" content="hand coded" />
+ <meta name="publisher" content="Dr. Andreas Klug, Klug Management Diagnostik" />
+ <meta name="robots" content="index,follow" />
+ <meta name="audience" content="all, alle" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.klug-md.de/img/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.klug-md.de/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.klug-md.de/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://www.klug-md.de/img/favicon/site.webmanifest">
+<link rel="mask-icon" href="https://www.klug-md.de/img/favicon/safari-pinned-tab.svg" color="#0e5198">
+<link rel="shortcut icon" href="https://www.klug-md.de/img/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-config" content="https://www.klug-md.de/img/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+ 
+ <!-- TemplateBeginEditable name="estylesheets" -->
+ <link rel="stylesheet" type="text/css" href="../styles/normalize7.css" media="screen">
+ <link rel="stylesheet" type="text/css" href="../styles/basics.css" media="screen">
+ <link rel="stylesheet" type="text/css" href="../styles/screeng1.css">
+ <!-- TemplateEndEditable --><!-- Ende des editierbaren Bereiches stylesheets -->
+ 
+<!-- Matomo Code Beginn     siehe Matomo Administration -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.klug-md.de"]);
+  _paq.push(["setDomains", ["*.klug-md.de"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.klug-md.de/analytics/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- Ende Matomo Code -->
+ </head>
+
+<body>
+
+<div class="contentgrid">
+
+<header>  <!-- Beginn des Elementes header = Grid-Element 1. Ordnung  -->
+ <div id="kopf">   <!-- Beginn div Kopf der Webseiten-->
+    <div id="hlogo"><!-- beginn div hlogo = Firmenlogo im header-->
+    <a href="https://klug-md.de"><img src="../img/logokppamd.svg" alt="KLUG Management Diagnostik"  /></a>   
+    </div><!-- Ende div hlogo =Firmenlogo im header-->
+    <div id="himg"><!-- beginn div himg = image im header-->
+     <a href="https://klug-md.de"><img src="../img/schapers1.jpg" alt="KLUG Management Diagnostik" style="max-width:100%;height:auto;" /></a>
+    </div><!-- Ende div himg =image im header-->
+ </div><!-- Ende div Kopf -->   
+</header><!-- Ende des Elementes header -->
+
+ <div class="pschild">  <!-- Beginn pschild = Grid-Element 1. Ordnung dropdown menu fuer Produkte u Photo -->
+     <input type="checkbox" id="menup" />
+      <label for="menup">Unsere Produkte</label>
+        <nav id="navil"><!-- Beginn nav navigation der Produkte links-->
+
+        <!-- TemplateBeginEditable name="emenuelinks" -->
+    <ul id="navili">
+             <li><a href="Einzel_Assessment.htm">Einzel-Assessment</a></li>
+             <li><a href="Potenzialanalyse.htm">Potenzialanalyse</a></li>
+             <li><a href="management-audit.htm">Management Audit</a></li>
+             <li><a href="Assessment-Center.htm">Assessment-Center</a></li>
+              <li class="csubn"> <!-- Beginn Listenpunkt Subnavigation-->
+               <ul id="subnav"><!-- Beginn ul Subnavigation -->
+                <li><a href="#ziele">Ziele</a></li>
+                <li><a href="#angebot">Unser Angebot</a></li>
+                <li><a href="#vorteile">Vorteile</a></li>
+                <li><a href="#pluspunkte">Unsere Pluspunkte</a></li>
+                <li><a href="#beispiele">Beispielelemente</a></li>
+                <li><a href="#varianten">Varianten</a></li>
+               </ul><!-- Ende ul Subnavigation-->
+              </li><!-- Ende Listenpunkt Subnavigation-->
+             <li><a href="Developmentcenter.htm">Development-Center</a></li>
+             <li><a href="Orientierungscenter.htm">Orientierungs-Center</a></li>
+             <li><a href="Eignungstests.htm">Eignungstests</a></li>
+             <li><a href="Feedbacksysteme.htm">Feedback Systeme</a></li>
+             <li><a href="Teamassessment.htm">Team-Assessment</a></li>
+             <li><a href="Befragung.htm">Befragungen</a></li>
+             <li><a href="wservices.htm">Weitere HR-Services</a></li>
+    </ul>
+        <!-- TemplateEndEditable --><!-- Ende des editierbaren Bereiches emenuelinks -->
+        <br /><br /><br /><br /><br />
+         <div id="phkontap">  <!-- Beginn div Photo Kontaktperson + Kontaktaufforderung-->
+           <a href="Andreas_Klug.htm" target="_blank">
+          <img src="../img/ph_Andreas_Klug133.jpg" alt="Photo Dr. Andreas Klug" width="133" height="174" /> </a>
+          <p><strong>Kontaktieren Sie uns</strong></a><br /> f&uuml;r ein unverbindliches Vorgespr&auml;ch!<br />
+                Ihr Ansprechpartner:<br />
+               <a href="Andreas_Klug.htm" target="_blank">Dr. rer.nat. Andreas Klug</a><br />
+               Diplom-Psychologe<br />
+               Tel: 0201-171 54 94<br /><br />
+              <a href="mailto:info@klug-md.de" target="_blank">
+             <img src="../img/btnemailkpp.gif" alt="_info@klug-md.de" width="122" height="18" /> </a>
+          </p>
+         </div><!-- Ende div Photo Kontaktperson-->
+       </nav> <!-- Ende einklappbare nav navil navigation der Produkte links-->
+  </div><!-- Ende div pschild= Grid-Element 1. Ordnung dropdown menu fuer Produkte u Photo-->
+
+
+  <nav id="navitop">  <!-- Grid-Element 1. Ordnung -->
+    <ul>
+      <li><a href="willkommen.htm">Home</a></li>
+      <li>&#128222; +49 201 171 54 94 <a href="Kontakt.htm" target="_blank">Kontakt</a></li>
+      <li><a href="referenzprojekte.htm">Referenz-Projekte</a></li>
+      <li><a href="team.htm">Team</a></li>
+      <!-- TemplateBeginEditable name="engllinks" --> <!-- Beginn des editierbaren Bereiches: Link zu engl. Version der Seite -->
+      <li><a href="willkommen.htm"><img src="../img/buttons/icongerman.gif" alt="Deutsch" width="21" height="13"  /></a></li>
+      <li><a href="../seitene/welcome.htm" target="_blank" hreflang="en"><img src="../img/buttons/iconenglish.gif" alt="English" width="21" height="13" /></a></li>
+      <!-- TemplateEndEditable -->
+    </ul>
+  </nav><!-- Ende div navitop-->
+
+
+  <main>  <!-- Grid-Element 1. Ordnung -->
+    <article>
+   <!-- TemplateBeginEditable name="emainco" -->
+    <!--   <h1>Hier h1 Titel 1 im Article not secs </h1>  -->
+<section class="secs">  <!-- Beginn des Elementes schmale section secs zur Seitenstrukturierung  ex div content   -->
+    <h1> h1 Titel1 eingeben: secs schmale section</h1>
+	<h2>Hier h2 Untertitel eingeben, z.B.: Zeigen lassen ist mehr als nur erz&auml;hlen lassen</h2> 
+      <h4>Hier h4 Untertitel für secs eingeben, z.B.: Ziele</h4>
+        <br />
+        <p>Produktseite Hier den neuen Text eingeben!</p>
+          <p> p in secs schmale section Sie engagieren sich f&uuml;r die Menschen in Ihrem Unternehmen und sorgen u. a. f&uuml;r die optimale Passung zwischen
+           Mitarbeitern unnd ist das geeignete diagnostische Verfahren hierzu.<br />
+           Schaffen Sie mit unserem Assessment-Angebot mehr Entscheidungssicherheit f&uuml;r sich, f&uuml;r Ihr Unternehmen
+          <p>p ohne id Beispielerklärungstext Abschnitt 3 : zu viel oder zu wenig divs? die section noch in ein div packen?
+         Durch die wiederholte Auseinandersetzung mit Anforderungen nach zwischenzeitlichem Feedback werden. Text vor Bild </p>
+      <br />
+
+</section>  <!-- Ende des Elementes section der klasse secs schmale section-->
+<section class="secb">  <!-- Beginn des Elementes section der klasse secb breite sectionzur Seitenstrukturierung  ex div content   -->
+        <h4>Hier h4 Untertitel für secb eingeben, z.B.: Methoden in der Übersicht</h4>
+       <p>Hier den neuen Text eingeben! p in secb breite section </p>
+       <p> ein p ohne id  Im Assessment simulieren wir die Anforderungen sowie kritische Situationen einer neuen Aufgabe bestehenden
+           Mitarbeitern veranlasst. </p><br />
+       <p>Produktseite p ohne id Beispielerklärungstext Abschnitt 3 : zu viel oder zu wenig divs? die section noch in ein div packen?
+   	    Durch die wiederholte Auseinandersetzung mit Anforderungen nach zwischenzeitlichem Feedback werden. Text vor Bild </p>
+    	<br />
+
+<a href="mailto:info@klugpaul.de?subject=kostenlose Erstberatung zum für uns optimalen Assessment">
+<p class="ctabutton">Kontaktieren Sie uns für eine kostenlose Erstberatung!</p></a>
+<p>&#160;&#160;<a href=“tel:+492011715494“>&#128222; +49-201-171 54 94 </a>&#160;&#160;
+<a href="mailto:info@klug-md.de">Email:
+<img src="../img/btnemailkpp.gif" alt="_info@klug-md.de" width="122" height="18" /> </a><br />
+Erfahren Sie, wie das Einzel-Assessment für die zu besetzende Position in Ihrem Unternehmen aussehen könnte.
+</p><br />
+		
+</section>  <!-- Ende des Elementes section der klasse secb breite section-->
+	
+<!-- TemplateEndEditable --><!-- Ende des editierbaren Bereiches emainco -->
+   <p><a href="#">&gt; Top</a>&#160;&#160;&#160;&#160;&#160;&#160;
+   <a href="javascript:history.back()"> &gt; Zur&uuml;ck</a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    © <a href="../seiten/Andreas_Klug.htm">Andreas Klug </a>
+   </p>
+  </article>
+</main><!-- Ende main -->
+
+  <aside class="kbschild"><!-- Beginn div kbschild column - knowledge base blauer Bereich-->
+      <input type="checkbox" id="menukb" />
+      <label for="menukb">&emsp;
+                            <span style="font-weight: 800;">knowledge</span><span style="font-weight: 200;">base</span>
+  </label>
+           <div class="infoschild"><a href="../Wissen/Knowledge.htm" target="_blank">Nutzen Sie unser<br />
+                                 Online-Angebot zur Management-Diagnostik</a>
+           </div>
+		   
+     <nav id="navir">  <!-- Beginn des Navigationselementes/ nav-tags navir  ehemals div class="menu-content">    -->
+	 <!-- TemplateBeginEditable name="kbmenuerechts" -->	<!-- Beginn des editierbaren Bereiches kbmenuerechts -->         
+        <ul id="navirkb">
+          <li><a href="../Wissen/Lexikon.htm" target="_blank">Lexikon</a></li>
+          <li><a href="../Wissen/FAQ.htm" target="_blank">H&auml;ufige Fragen und Antworten zu Assessments</a></li>
+          <li><a href="../Wissen/Publikationen.htm" target="_blank">Publikationen</a></li>
+          <li><a href="../Wissen/Qualitaet.htm" target="_blank">Qualit&auml;tsstandards</a></li>
+          <li><a href="../Wissen/ISO10667.htm" target="_blank">ISO 10667</a></li>
+          <li><a href="../Wissen/DIN_33430.htm" target="_blank">DIN 33430</a></li>
+          <li><a href="../Wissen/Checklisten.htm" target="_blank">Checklisten</a></li>
+          <li><a href="../Wissen/Downloads.htm" target="_blank">Downloads</a></li>
+          <li><a href="../Wissen/Dictionaryed.htm" target="_blank">Dictionary of Assessment<br /> related Terms<br />english -> german</a>
+             <a href="../Wissen/Dictionaryde.htm" target="_blank">german -> english</a></li>
+        </ul>
+     <!-- TemplateEndEditable --><!-- Ende des editierbaren Bereiches kbmenuerechts -->
+
+  </nav>     <!-- Ende des Navigationselementes/ nav-tags navir -->
+  </aside>    <!-- Ende aside kbschild - knowledge base blauer Bereich-->
+
+ <footer><!-- beginn footer  element für Impressum copyright etc. -->
+   <p>Alle Rechte vorbehalten &copy; 2007, 2023 Dr. Andreas Klug&#160;&#160;&#160;&#160;&#160;
+          <a href=“tel:+492011715494“>&#128222; +49-201-171 54 94 </a> &#160;&#160;&#160;&#160; <a href="mailto:info@klugpaul.de" target="_blank">&#128231; info@klugpaul.de</a><br />
+  <a href="../seiten/Kontakt.htm" target="_blank"><strong>Kontakt</strong>, Impressum und Nutzungsbedingungen</a></p>
+    <!-- TemplateBeginEditable name="erechte" -->
+   <p class=lit>© Photos: A.Klug, <a href="http://arcurs.com/who" target="_blank">Yuri Arcurs</a> /fotolia.de</p>
+   
+    <!-- TemplateEndEditable --><!-- Ende des bearbeitbaren Bereiche erechte -->
+    <p>Diese Website verwendet Cookies , u.a. um sie benutzerfreundlich zu gestalten und um den von Ihnen benötigten Datentransfer gering zu halten. 
+      Weitere Informationen und Wahlmöglichkeiten finden Sie bei unseren Hinweise und Maßnahmen zum <a href="../seiten/Datenschutz.htm">Datenschutz</a> .</p>
+<br />
+<!-- Matomo code fallback falls jemand js deaktiviert hat -->
+<noscript><p><img src="//www.klug-md.de/analytics/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript> 
+ </footer><!-- Ende footer -->
+
+</div> <!-- Ende contentgrid -->
+</body>
+</html>
